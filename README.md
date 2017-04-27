@@ -1,3 +1,2 @@
-#Laboratory Activity 4
-
-It's all about images
+# TLE 9 Web Design Class Repository
+Creating HTML with images
